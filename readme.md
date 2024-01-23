@@ -57,7 +57,7 @@ Add expressive emojis to your project effortlessly. Use the following code to in
 
 | Prop         | Required | Type    | Description                                              |
 | ------------ | -------- | ------- | -------------------------------------------------------- |
-| **emoji**    | Required | [emoji](/docs/list-of-emojis)   | Paste the emoji you want to use. [Click here](/docs/list-of-emojis) to see the list of supported emojis.                     |
+| **emoji**    | Required | [emoji]([/docs/list-of-emojis](https://docs.reactemojis.com/docs/list-of-emojis))   | Paste the emoji you want to use. [Click here]([/docs/list-of-emojis](https://docs.reactemojis.com/docs/list-of-emojis)) to see the list of supported emojis.                     |
 | **emojiStyle** | Optional | string  | Choose from values 1, 2, 3 to determine the style of emoji variation. |
 | **style**    | Optional | JSON    | Add CSS styles.                                          |
 | **className**| Optional | string  | Add a classname for further customization.               |
