@@ -6,16 +6,7 @@ Welcome to **React Emojis!** This guide will help you get started with the insta
 
 ## How to install
 
-### 🚀 Receive GitHub Repository Access
-After a successful payment, you'll promptly receive an invitation to the React Emojis GitHub repository. 
-:::info
-
-In case you encounter any issues or don't receive the invitation, please contact us at support@reactemojis.com, and we'll assist you promptly.
-
-:::
-
-
-
+### 🚀 Using the GitHub Repository
 
 
 ### 📦 Clone the Package to Your React Project
@@ -23,7 +14,7 @@ Clone the React Emojis package to your root React project using the following co
 ```bash
 git clone https://github.com/benlhachemi/reactemojis
 ```
-Once completed, you should see a new folder named 'react-emojis' at the root of your project.
+Once completed, you should see a new folder named 'reactemojis' at the root of your project.
 
 ![Example banner](https://i.imgur.com/bFqqCVk.png)
 
@@ -35,7 +26,7 @@ npm install lottie-react
 ```
 :::note
 
-For optimal deployment, it's recommended to install 'lottie-react' in the root package.json of your entire app rather than within the 'react-emojis' folder. This helps prevent dependency issues during deployment.
+For optimal deployment, it's recommended to install 'lottie-react' in the root package.json of your entire app rather than within the 'reactemojis' folder. This helps prevent dependency issues during deployment.
 
 :::
 
