@@ -1,22 +1,49 @@
-# ReactEmojis - *Elevate Your **React** Landing Page with **Animated Emojis***
-
-![logo](https://i.imgur.com/fTsVKmr.jpeg)
-
-Transform static content into dynamic experiences with our animated SVG
-emojis. Engage your audience and inject personality into your landing
-page effortlessly.
-
----
-
-*[SUBSCRIBE TO MY YOUTUBE CHANNEL FOR MORE FREE OPEN SOURCE PROJECTS](https://www.youtube.com/@souhail_benlhachemi)*
-
----
+<div align="center">
+  <br/>
+  <img src="https://i.imgur.com/B2dHz6H.png" width="800" />
+  <br/>
+  <br/>
+  <h5>
+    Elevate Your React Landing Page with Animated Emojis.
+  </h5>
+  Read the <a href="https://docs.reactemojis.com/">documentation</a>
+  <br/>
+  <br/>
+  <p>   
+    <a href="https://badge.fury.io/js/@souhaildev%2Freactemojis">
+      <img src="https://badge.fury.io/js/@souhaildev%2Freactemojis.svg"/>
+    </a>
+    <a href="https://reactemojis.com">
+      <img src="https://img.shields.io/badge/live-demo-example"/>
+    </a>
+    <a href="https://github.com/benlhachemi/reactemojis/issues">
+      <img src="https://img.shields.io/github/issues/benlhachemi/reactemojis"/>
+    </a>
+    <a href="ttps://github.com/wisehackermonkey/benlhachemi/reactemojis">
+      <img src="https://img.shields.io/github/stars/benlhachemi/reactemojis"/>
+    </a>
+    <a href="https://github.com/benlhachemi/reactemojis/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/benlhachemi/reactemojis"/>
+    </a>
+    
+  </p>
+  <p>
+    <em>♥️ Subscribe to my <a href="https://twitter.com/manast">Youtube Channel</a> for more free & open source projects ♥️</em>
+  </p>
+</div>
 
 # Getting Started
 
 Welcome to **React Emojis!** This guide will help you get started with the installation process and provide a step-by-step walkthrough on how to use **React Emojis** in your React projects.
 
-## How to use
+
+## Demo
+
+<center><img src="https://i.imgur.com/2EI3A7u.png" width=500/></center>
+<img src="https://i.imgur.com/C6hkVwt.png"/>
+
+
+## Installation
 
 ### 📦 Install the package
 
@@ -42,14 +69,14 @@ Add expressive emojis to your project effortlessly. Use the following code to in
 
 ### Props Table
 
-| Prop                 | Required | Type                                                                           | Description                                                                                                                                              |
-| -------------------- | -------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **emoji**      | Required | [emoji]([/docs/list-of-emojis](https://docs.reactemojis.com/docs/list-of-emojis)) | Paste the emoji you want to use.[Click here]([/docs/list-of-emojis](https://docs.reactemojis.com/docs/list-of-emojis)) to see the list of supported emojis. |
-| **emojiStyle** | Optional | string                                                                         | Choose from values 1, 2, 3 to determine the style of emoji variation.                                                                                    |
-| **style**      | Optional | JSON                                                                           | Add CSS styles.                                                                                                                                          |
-| **className**  | Optional | string                                                                         | Add a classname for further customization.                                                                                                               |
+| Prop                 | Required | Type                                                                                                       | Description                                                                                                                                                                          |
+| -------------------- | -------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **emoji**      | Required | [emoji]([https://docs.reactemojis.com/docs/list-of-emojis](https://docs.reactemojis.com/docs/list-of-emojis)) | Paste the emoji you want to use.[Click here]([https://docs.reactemojis.com/docs/list-of-emojis](https://docs.reactemojis.com/docs/list-of-emojis)) to see the list of supported emojis. |
+| **emojiStyle** | Optional | string                                                                                                     | Choose from values 1, 2, 3 to determine the style of emoji variation.                                                                                                                |
+| **style**      | Optional | JSON                                                                                                       | Add CSS styles.                                                                                                                                                                      |
+| **className**  | Optional | string                                                                                                     | Add a classname for further customization.                                                                                                                                           |
 
-:::tip
+<br />
 
 For TypeScript support and a handy list of emojis, simply invoke IntelliSense completion in Visual Studio Code by pressing CTRL + Space. This will provide you with a convenient list of available emojis to choose from.
 ![Example banner](https://i.imgur.com/BmoEZZj.png)
@@ -60,7 +87,9 @@ For additional details and advanced features, refer to our comprehensive documen
 
 ---
 
-*[SUBSCRIBE TO MY YOUTUBE CHANNEL FOR MORE FREE OPEN SOURCE PROJECTS](https://www.youtube.com/@souhail_benlhachemi)*
+<p>
+    <em>♥️ Subscribe to my <a href="https://twitter.com/manast">Youtube Channel</a> for more free & open source projects ♥️</em>
+  </p>
 
 ---
 
