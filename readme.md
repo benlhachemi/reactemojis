@@ -28,7 +28,7 @@
     
   </p>
   <p>
-    <em>♥️ Subscribe to my <a href="https://twitter.com/manast">Youtube Channel</a> for more free & open source projects ♥️</em>
+    <em>♥️ Subscribe to my <a href="https://www.youtube.com/@souhail_benlhachemi">Youtube Channel</a> for more free & open source projects ♥️</em>
   </p>
 </div>
 
@@ -88,7 +88,7 @@ For additional details and advanced features, refer to our comprehensive documen
 ---
 
 <p>
-    <em>♥️ Subscribe to my <a href="https://twitter.com/manast">Youtube Channel</a> for more free & open source projects ♥️</em>
+    <em>♥️ Subscribe to my <a href="https://www.youtube.com/@souhail_benlhachemi">Youtube Channel</a> for more free & open source projects ♥️</em>
   </p>
 
 ---
